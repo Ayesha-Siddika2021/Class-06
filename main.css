@@ -1,0 +1,205 @@
+h1{
+	font-family: 'Roboto', sans-serif;
+}
+.row{
+	border-bottom:1px solid #80006a70;
+	height:100px;
+	background:#FCDFFF;
+}
+.logo{
+	
+	width:300px;
+	padding:10px;
+	height:70px;
+	float:left;
+}
+.logo img{
+	width:65px;
+}
+.brand{
+	width:820px;
+	height:70px;
+	padding:10px;
+	float:left;
+}
+.nav{
+
+	width:700px;
+	height:70px;
+	padding:10px;
+	float:left;
+}
+.nav ul li{
+	padding:10px;
+	width:80px;
+	float:left;
+}
+
+.banner img{
+	width:1895px;
+	height:500px;
+}
+.latest{
+	margin:120px 670px;
+	border-bottom:2px solid #ff00ff2b;
+	font-family: 'Montserrat', sans-serif;
+}
+.card-row{
+	height:500px;
+}
+.card{
+	width:1200px;
+	margin:0px 350px;
+}
+.card-1{
+	height:430px;
+	width:320px;
+	padding:10px;
+	border-top:2px solid #ff00ff;
+	border-bottom:2px solid #ff00ff;
+	border-radius:35px;
+	float:left;
+	margin:0px 30px;
+}
+.card-1 img{
+	height:300px;
+	width:320px;
+}
+.card-1 h1{
+	font-family: 'Satisfy', cursive;
+
+}
+.solution{
+	background:#eec0f3;
+	height:400px;
+}
+
+.image{
+	padding:15px;
+	width:985px;
+	float:left;
+	height:380px;
+}
+.rightdiv{
+	width:850px;
+	float:right;
+}
+.right h1{
+	padding:110px 0px 0px;
+	color:#412fd9fc;
+	font-size:30px;
+	font-family: 'Montserrat', sans-serif;
+}
+.right p{
+	color:#9f9784;
+}
+button{
+	font-size: 18px;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px 20px;
+	margin:20px 25px 0px 0px;
+}
+.bgblack{
+	background:black;
+    color:white;
+    border:1px solid black;
+}
+.bestProduct{
+	
+}
+.middle {
+    width:220px;
+    margin:0px 825px;
+}
+.middle h1 {
+    padding: 40px 0px 10px;
+    border-bottom: 3px dotted magenta;
+	font-family: 'Satisfy', cursive;
+
+}
+.bestProductList{
+	height: 620px;
+    border-bottom: 1px solid #7a7878b5;
+}
+.product{
+	width: 1400px;
+    margin: 0px 245px;
+}
+.productList{
+	width: 300px;
+    float: left;
+    padding: 20px;
+}
+.productList img{
+	width:300px;
+	height:200px;
+}
+.productList h1{
+	color:#a5959582;
+}
+.regiestration {
+    height: 270px;
+}
+.order {
+    width: 310px;
+    margin:50px 0px 0px 550px;
+    float: left;
+}
+.order h1{
+	padding: 20px 30px;
+    border: 1px solid black;
+    border-radius: 40px;
+	font-family: 'Montserrat', sans-serif;
+	background:#000000eb;
+	color:white;
+}
+.regform{
+	width: 340px;
+    float: right;
+    margin: 10px 570px 10px 0px;
+    font-size: 20px;
+    padding: 5px 0px 5px 32px;
+    border: 1px solid gray;
+    border-radius: 6px;
+    background: #e5d0ef;
+}   
+.input{
+	height: 30px;
+    width: 100px;
+    margin: 10px 0px 0px 95px;
+    font-size: 20px;
+}
+/* footer section */
+.footer{
+	background:#0e0a0ac2;
+    height: 400px;
+}
+.footerMain{
+	width: 1200px;
+    height: 360px;
+    margin: 0px 450px;
+    padding: 50px 0px;
+    color: white;
+}
+.connect{
+	width:300px;
+	float:left;
+	padding:0px 30px;
+	
+}
+.connect ul li{
+	padding-bottom:10px;
+}
+.connect ul li a{
+	color: white;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
